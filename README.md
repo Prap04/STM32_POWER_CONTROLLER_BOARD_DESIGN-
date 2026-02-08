@@ -1,4 +1,3 @@
-# STM32_POWER_CONTROLLER_BOARD_DESIGN-
 # STM32F103 Custom Control Board (PCB Project)
 
 This project is a **custom-made PCB (Printed Circuit Board)** built around the **STM32F103C8T6 microcontroller**.  
