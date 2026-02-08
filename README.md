@@ -7,7 +7,7 @@ This board can be used for **sensor reading, communication, and embedded control
 
 ---
 
-## 🎯 Project Goal
+## Project Goal
 
 To design a working STM32 board that includes:
 
@@ -18,7 +18,7 @@ To design a working STM32 board that includes:
 
 ---
 
-## 🧠 Main Components Used
+## Main Components Used
 
 | Part | What it Does |
 |------|---------------|
