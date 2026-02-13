@@ -3,7 +3,6 @@
 This project is a **custom-made PCB (Printed Circuit Board)** built around the **STM32F103C8T6 microcontroller**.  
 The goal of this project was to learn how to design a **real hardware board** instead of only using ready-made development boards.
 
-This board can be used for **sensor reading, communication, and embedded control applications**.
 
 ---
 
